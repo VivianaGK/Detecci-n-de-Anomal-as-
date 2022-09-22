@@ -1,1 +1,1 @@
-# Detecci-n-de-Anomal-as-
+# Detección-de-Anomalías-
